@@ -45,6 +45,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Third-Party Libraries
 
+- **[DaoXE](https://daoxe.com)** – Multi-model multi-protocol AI API gateway with OpenAI Chat Completions, Responses, Anthropic Messages, and image-compatible endpoints.
 - **[LangChain](https://github.com/langchain-ai/langchain)** – Framework for building LLM apps with memory, tools, and agents.
 - **[LlamaIndex](https://github.com/jerryjliu/llama_index)** – LLM data framework for connecting language models to external data.
 - **[Auto-GPT](https://github.com/Torantulino/Auto-GPT)** – Experimental open-source agent with OpenAI and automation.
