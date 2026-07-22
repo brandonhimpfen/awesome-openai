@@ -49,6 +49,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[LlamaIndex](https://github.com/jerryjliu/llama_index)** – LLM data framework for connecting language models to external data.
 - **[Auto-GPT](https://github.com/Torantulino/Auto-GPT)** – Experimental open-source agent with OpenAI and automation.
 - **[GPT-Engineer](https://github.com/AntonOsika/gpt-engineer)** – Specify what you want and let GPT-4 build the codebase.
+- **[Lucinate](https://github.com/lucinate-ai/lucinate)** – A multi-backend terminal AI chat client for OpenClaw, Hermes, Ollama, and OpenAI-compatible APIs.
 
 ## ChatGPT
 
