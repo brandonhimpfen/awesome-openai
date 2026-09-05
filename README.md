@@ -1,4 +1,4 @@
-# Awesome OpenAI [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome OpenAI [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1010326730.svg)](https://doi.org/10.5281/zenodo.19680798)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -102,11 +102,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome ChatGPT](https://github.com/awesomelistsio/awesome-chatgpt)**
-- **[Awesome Prompt Engineering](https://github.com/awesomelistsio/awesome-prompt-engineering)**
-- **[Awesome Generative AI](https://github.com/awesomelistsio/awesome-generative-ai)**
-- **[Awesome LLMOps](https://github.com/awesomelistsio/awesome-llmops)**
-- **[Awesome AI](https://github.com/awesomelistsio/awesome-ai)**
+- **[Awesome ChatGPT](https://github.com/brandonhimpfen/awesome-chatgpt)**
+- **[Awesome Prompt Engineering](https://github.com/brandonhimpfen/awesome-prompt-engineering)**
+- **[Awesome Generative AI](https://github.com/brandonhimpfen/awesome-generative-ai)**
+- **[Awesome LLMOps](https://github.com/brandonhimpfen/awesome-llmops)**
+- **[Awesome AI](https://github.com/brandonhimpfen/awesome-ai)**
 
 ## Contribute
 
